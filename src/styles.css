@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+.mg-top
+{
+    margin-top: 150px;
+}
+.border
+{
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.input2
+{
+    width: 97%;
+}
+.set-in
+{
+    display: flex;
+}
+
+.s-left
+{
+    margin-left: 10px;
+}
+
+.s2-left
+{
+    margin-left: 22px;
+}
+
+.btn-default:hover
+{
+    background-color: #5cb85c;
+    color: white;
+}
+.link
+{
+    line-height: 2 !important;
+    font-size: 16px !important;
+}
